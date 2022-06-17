@@ -26,7 +26,7 @@ require (
 	github.com/google/go-cmp v0.5.7
 	github.com/google/uuid v1.1.2
 	github.com/gorilla/mux v1.6.2
-	github.com/hashicorp/go-multierror v1.0.0
+	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/hcl2 v0.0.0-20190503213020-640445e16309
 	github.com/kelseyhightower/envconfig v1.3.0
 	github.com/kylelemons/godebug v1.1.0 // indirect
